@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aae26e07b8f6e944f8a50ce4fff61400
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - playerPrefab: {fileID: 1204133201242880323, guid: 44209977f93d7854bac517dff34087fc, type: 3}
+  - mainCamera: {instanceID: 0}
+  - devUI: {instanceID: 0}
+  - gamepadUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
